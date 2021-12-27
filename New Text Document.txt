@@ -1,0 +1,2 @@
+print ("konichiwa") 
+print ("ohayogosahimasu")
